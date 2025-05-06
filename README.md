@@ -3,7 +3,6 @@
 - 📈 Estudante em análise de dados 
 - 📊 Futuro analista de dados com foco em BI e Power BI
 
-- 
 <!--
 **HugoRibeiroIT/HugoRibeiroIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
