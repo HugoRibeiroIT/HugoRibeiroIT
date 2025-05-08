@@ -18,7 +18,7 @@ Com vários anos de experiência como motorista de pesados, desenvolvi disciplin
 - **Power Query**
 - **DAX**
 - **SQL (básico)**
-- A explorar: Python e Pandas
+- A explorar: Python
 
 ## 📚 Projetos em Destaque
 
@@ -37,7 +37,7 @@ Com vários anos de experiência como motorista de pesados, desenvolvi disciplin
 ## 📫 Contacto
 
 - 📧 [hugofribeiroit@gmail.com](mailto:hugofribeiroit@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hugo-ribeiro-196687203/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/hugo-ribeiro-196687203/)
 
 ---
 
