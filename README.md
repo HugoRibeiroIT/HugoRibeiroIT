@@ -1,20 +1,45 @@
-## Olá! Eu sou o Hugo Ribeiro! 👋
+# 👋 Olá, sou o Hugo Ribeiro!
 
-- Estudante em análise de dados 
-- Futuro analista de dados com foco em BI e Power BI
-- A frequentar um curso de Business Intelligence
-- 
-<!--
-**HugoRibeiroIT/HugoRibeiroIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Atualmente em transição de carreira — de motorista de pesados para **Analista de Dados**, com foco em **Power BI** e **visualização de dados**.
 
-Here are some ideas to get you started:
+## 🚚 Para 📊 — A Minha Jornada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Com vários anos de experiência como motorista de pesados, desenvolvi disciplina, atenção ao detalhe e uma forte ética de trabalho. Agora estou a canalizar essas qualidades para o mundo dos dados, onde estou a aprender a:
+
+- 📈 Criar dashboards e relatórios em Power BI
+- 📊 Limpar, transformar e modelar dados com Power Query e DAX
+- 🗂️ Trabalhar com Excel avançado e SQL básico
+- 🧠 Aprender sobre Data Storytelling e melhores práticas de visualização
+
+## 🛠️ Ferramentas e Tecnologias
+
+- **Power BI**
+- **Excel (avançado)**
+- **Power Query**
+- **DAX**
+- **SQL (básico)**
+- A explorar: Python e Pandas
+
+## 📚 Projetos em Destaque
+
+- [📦 Análise de Vendas de uma Loja Fictícia](#)  
+  Dashboard interativo em Power BI, com KPIs mensais, análise de clientes e produtos.
+
+- [🚗 Custos de Combustível vs Rotas](#)  
+  Projeto pessoal inspirado na minha experiência como motorista — análise de custos operacionais e otimização de rotas.
+
+*(links em breve — repositórios em construção)*
+
+## 🎯 Objetivo
+
+📌 Conseguir a minha primeira oportunidade como **Analista de Dados Júnior**, onde possa aplicar os meus conhecimentos e continuar a crescer.
+
+## 📫 Contacto
+
+- 📧 [hugofribeiroit@gmail.com](mailto:hugofribeiroit@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hugo-ribeiro-196687203/))
+
+---
+
+*Obrigado por visitar o meu perfil!*
+
