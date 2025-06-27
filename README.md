@@ -4,17 +4,21 @@ Fiz formação profissional em gestão e programação de sistemas informáticos
 
 Atualmente em transição de carreira — de motorista de pesados para **Analista de Dados**, com foco em **Power BI** e **Visualização de dados**.
 
-🔹 Formação em Business Intelligence IEFP:
+## 🔹 Formação em Business Intelligence IEFP:
 
-Durante a formação de 300 horas em Business Intelligence do IEFP, desenvolvi competências essenciais para transformar dados em informação estratégica voltada à tomada de decisão. Essa formação teve como objetivo capacitar profissionais e organizações no uso de ferramentas tecnológicas para recolha, armazenamento, transformação e análise de dados, com foco na criação de dashboards interativos, dinâmicos e colaborativos. Ao longo da formação, trabalhei temas fundamentais como:
+Durante a formação de 300 horas em Business Intelligence do IEFP, desenvolvi competências essenciais para transformar dados em informação estratégica voltada à tomada de decisão. Essa formação teve como objetivo capacitar profissionais e organizações no uso de ferramentas tecnológicas para recolha, armazenamento, transformação e análise de dados, com foco na criação de dashboards interativos, dinâmicos e colaborativos.
+Ao longo da formação, trabalhei temas fundamentais como:
 
-• Aplicação de ferramentas para suporte à decisão; • Planeamento de soluções de armazenamento de dados; • Integração e transformação de dados de múltiplas origens; • Construção de modelos dimensionais; • Criação de relatórios e dashboards eficazes; • Storytelling com dados e visualização estratégica de informação; • Execução de análises avançadas orientadas ao negócio.
+•	Aplicação de ferramentas para suporte à decisão;
+•	Planeamento de soluções de armazenamento de dados;
+•	Integração e transformação de dados de múltiplas origens;
+•	Construção de modelos dimensionais;
+•	Criação de relatórios e dashboards eficazes;
+•	Storytelling com dados e visualização estratégica de informação;
+•	Execução de análises avançadas orientadas ao negócio.
 
-Como culminar desse processo, desenvolvi vários projetos práticos baseado em conjuntos de dados diversos permitindo aplicar todo o ciclo de desenvolvimento de uma análise de Business Intelligence, desde a modelação até à entrega de insights visuais.
+Como culminar desse processo, desenvolvi vários projetos prático baseado em coinjunto de dados diversos permitindo aplicar todo o ciclo de desenvolvimento de uma analise de Business Intelligence, desde a modelação até à entrega de insights visuais.
 
-Aqui, você encontrará os projetos que desenvolvi em contexto de aprendizagem, envolvendo ferramentas como Power BI, análise de dados, modelagem de dados, visualizações e soluções de negócios.
-
-Estou sempre em evolução, participando ativamente de cursos de análise de dados, Power BI e modelagem de dados.
 
 
 ## 🚚 Para 📊 — A Minha Jornada
