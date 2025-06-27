@@ -41,9 +41,8 @@ Com vários anos de experiência como motorista de pesados, desenvolvi disciplin
 
 ## 📚 Projetos em Destaque
 
-
-
-*(links em breve — repositórios em construção)*
+# [Projeto de Business Intelligence – Análise do Marketplace Olist](https://github.com/HugoRibeiroIT/Olist)
+O projeto teve como objetivo transformar dados brutos do e-commerce brasileiro Olist em insights estratégicos, por meio da modelagem de dados, construção de um dashboard analítico e interpretação dos principais indicadores de desempenho.
 
 ##  Objetivo
 
