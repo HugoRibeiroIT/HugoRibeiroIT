@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Hugo Ribeiro!
+#  Olá, sou o Hugo Ribeiro!
 
 Fiz formação profissional em gestão e programação de sistemas informáticos.
 
@@ -21,16 +21,16 @@ Como culminar desse processo, desenvolvi vários projetos prático baseado em co
 
 
 
-## 🚚 Para 📊 — A Minha Jornada
+## A Minha Jornada
 
 Com vários anos de experiência como motorista de pesados, desenvolvi disciplina, atenção ao detalhe e uma forte ética de trabalho. Agora estou a canalizar essas qualidades para o mundo dos dados, onde estou a aprender a:
 
-- 📈 Criar dashboards e relatórios em Power BI
-- 📊 Limpar, transformar e modelar dados com Power Query e DAX
-- 🗂️ Trabalhar com Excel avançado e SQL básico
-- 🧠 Aprender sobre Data Storytelling e melhores práticas de visualização
+-  Criar dashboards e relatórios em Power BI
+-  Limpar, transformar e modelar dados com Power Query e DAX
+-  Trabalhar com Excel avançado e SQL básico
+-  Aprender sobre Data Storytelling e melhores práticas de visualização
 
-## 🛠️ Ferramentas e Tecnologias
+##  Ferramentas e Tecnologias
 
 - **Power BI**
 - **Excel (avançado)**
@@ -41,19 +41,15 @@ Com vários anos de experiência como motorista de pesados, desenvolvi disciplin
 
 ## 📚 Projetos em Destaque
 
-- [📦 Análise de Vendas de uma Loja Fictícia](#)  
-  Dashboard interativo em Power BI, com KPIs mensais, análise de clientes e produtos.
 
-- [🚗 Custos de Combustível vs Rotas](#)  
-  Projeto pessoal inspirado na minha experiência como motorista — análise de custos operacionais e otimização de rotas.
 
 *(links em breve — repositórios em construção)*
 
-## 🎯 Objetivo
+##  Objetivo
 
-📌 Conseguir a minha primeira oportunidade como **Analista de Dados Júnior**, onde possa aplicar os meus conhecimentos e continuar a crescer.
+ Conseguir a minha primeira oportunidade como **Analista de Dados Júnior**, onde possa aplicar os meus conhecimentos e continuar a crescer.
 
-## 📫 Contacto
+##  Contacto
 
 - 📧 [hugofribeiroit@gmail.com](mailto:hugofribeiroit@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hugo-ribeiro-196687203/)
