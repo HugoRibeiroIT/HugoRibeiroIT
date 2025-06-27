@@ -1,6 +1,7 @@
 # 👋 Olá, sou o Hugo Ribeiro!
 
 Fiz formação profissional em gestão e programação de sistemas informáticos.
+
 🎯 Atualmente em transição de carreira — de motorista de pesados para **Analista de Dados**, com foco em **Power BI** e **visualização de dados**.
 
 ## 🚚 Para 📊 — A Minha Jornada
